@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es"
+<head>
+              <title>practica 3</title>
+</head>
+<body>
+<center> los paises del mundo </center>
+<h1>I:AMERICA</h1>
+
+        <h2> 1:peru </h2>
+
+        <h3>capital: lima</h3>
+        <h3> idioma: castellano</h3>
+
+<h2>2:chile</h2>
+ 
+        <h3>capital:santiago de chile</h3>
+        <h3> idioma: catolica</h3>
+
+
+<h2>3:venezuela</h2> 
+
+        <h3>capital:caracas</h3>
+        <h3> idioma: castellano</h3>
+
+<h1>II:EUROPA</h1>
+
+    <h2>A: españa </h2>
+
+        <h3>capital:madrid</h3>
+        <h3> idioma: castellano</h3> 
+
+ <h2>B:francia</h2>
+
+        <h3>capital:paris</h3>
+        <h3> idioma:frances</h3>
+
+
+ <h2> C:italia</h2>
+
+        <h3>capital:roma</h3>
+        <h3> idioma:italiano</h3>
+
+<h1>III:ASIA</h1>
+
+        <h2> 1:JAPON </h2>
+
+        <h3>capital: tokio</h3>
+        <h3> idioma:japones</h3>
+
+<h2>2:china</h2>
+ 
+        <h3>capital:pekin</h3>
+        <h3> idioma:mandarin</h3>
+
+
+<h2>3:corea del sur</h2> 
+
+        <h3>capital:seul</h3>
+        <h3> idioma:coreano</h3>
+
+
+</body>
+
+</html>
